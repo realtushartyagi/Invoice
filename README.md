@@ -1,6 +1,6 @@
-# PDF to Excel Converter (GUI)
+# PDF to Excel Converter
 
-This is a PyQt5-based GUI application that allows users to convert PDF files into Excel files. The application provides multiple options for extracting data from PDFs, including tables, text, and OCR (Optical Character Recognition).
+This application provides a user-friendly interface that allows users to convert PDF files into Excel format. It supports multiple extraction options, including table detection, text extraction, and OCR (Optical Character Recognition) for scanned documents.
 
 ---
 
