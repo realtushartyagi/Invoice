@@ -47,7 +47,7 @@ This is a PyQt5-based GUI application that allows users to convert PDF files int
 #### Start the Backend Server:
 1. Make sure all dependencies are installed:
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
 2. Start the Flask backend server:
