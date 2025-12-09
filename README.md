@@ -60,7 +60,7 @@ This is a PyQt5-based GUI application that allows users to convert PDF files int
 1. Open `index.html` in your web browser, or
 2. Use a local web server:
    ```bash
-   python -m http.server 8000
+  python -m http.server 8000 
    ```
    Then navigate to `http://localhost:8000` in your browser
 
