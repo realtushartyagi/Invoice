@@ -4,6 +4,7 @@ import os
 import tempfile
 from werkzeug.utils import secure_filename
 
+
 class PdfConverter:
     @staticmethod
     def convert_pdf_table_to_excel(pdf_path, output_file):

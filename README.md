@@ -83,7 +83,7 @@ Select one of the available options:
 
 - **PDF Table to Excel**: Extracts tables from the PDF.
 - **PDF Table/Sheet Excel**: Extracts multiple tables and saves each in a separate sheet.
-- **PDF to Excel**: Extracts all text from the PDF.
+- **PDF to Excel**: Extracts all text from the PDF. 
 - **OCR**: Uses OCR to extract text from scanned PDFs.
 
 ### Save the Output:
